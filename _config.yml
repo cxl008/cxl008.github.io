@@ -48,7 +48,7 @@ links:
 timezone:    Asia/Beijing
 future:      true
 pygments:    true
-markdown:    kramdown
+markdown:    redcarpet
 
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough","superscript"]
